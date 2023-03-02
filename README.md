@@ -1,4 +1,4 @@
-<<<<<<< HEAD
 My first readme
-=======
+
+
 
